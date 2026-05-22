@@ -247,10 +247,8 @@ It is designed to demonstrate industry-level project implementation and analytic
 Data Science | Machine Learning | Business Analytics Enthusiast
 
 Connect With Me
-```
 - LinkedIn: https://www.linkedin.com/in/muhammad-ali-amir-9ab288311
 - GitHub: https://github.com/creativework928-max/DevelopersHub_Project-02_All-Tasks
-```
 ---
 
 ## ⭐ Support
